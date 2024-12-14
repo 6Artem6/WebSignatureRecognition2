@@ -63,7 +63,7 @@
     margin-top: 20px;
 }
 
-.verify-button {
+.action-button {
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
@@ -74,11 +74,11 @@
     font-size: 25px;
 }
 
-.verify-button:hover {
+.action-button:hover {
     background-color: #45a049;
 }
 
-.verify-button:disabled {
+.action-button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
 }
